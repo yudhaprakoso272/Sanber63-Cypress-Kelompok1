@@ -4,7 +4,7 @@
 POC of Tasks:
 1. Create an Account : Firman
 2. Login : Melissa
-3. My Account > Edit Account Information & Edit Address : Yudha
+3. My Account > Edit Account Information & Edit Address : Aliffrianto Yudha Prakoso
 4. Choose products and Update Shopping Cart : Rira
 5. Proceed to Checkout : Alie
 
