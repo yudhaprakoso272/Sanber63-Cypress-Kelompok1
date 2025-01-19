@@ -10,4 +10,4 @@ POC of Tasks:
 
 Picture of Proof:
 - Add to Cart: https://i.ibb.co.com/YTFHNXt/Screenshot-2025-01-18-at-18-35-30.png
- 
+- Choose Product and update Shopping chart : https://drive.google.com/file/d/1B6dKbimPW7L5emaZJznsg0LDdon_i9NR/view?usp=sharing
