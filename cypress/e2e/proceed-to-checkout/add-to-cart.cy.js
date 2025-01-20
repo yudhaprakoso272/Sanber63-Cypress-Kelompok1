@@ -1,6 +1,6 @@
 import addToCart from "../../support/pageObject/add-to-cart";
 
-describe('Proceed to Checkout Module', () => {
+describe('Add to Cart', () => {
     beforeEach(() => {
         cy.visit('https://magento.softwaretestingboard.com/customer/account/login/');
     });

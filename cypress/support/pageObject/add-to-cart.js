@@ -1,6 +1,6 @@
 class AddToCart {
     searchField = "#search"
-    productName = 'Fusion Backpack'
+    productName = 'Tristan Endurance Tank'
     productUrl = "https://magento.softwaretestingboard.com/tristan-endurance-tank.html"
     
     btnAddToCart = "#product-addtocart-button"
