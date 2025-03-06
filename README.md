@@ -5,7 +5,7 @@
 1. Create an Account : Firman
 2. Login : Melissa
 3. Edit Account Information & Edit Address : Aliffrianto Yudha Prakoso
-4. Choose products and Update Shopping Cart : Rira
+4. Choose products and Update Shopping Cart : Sharira Saniane
 5. Proceed to Checkout : Mochammad Alie
 
 ### Test Cases
